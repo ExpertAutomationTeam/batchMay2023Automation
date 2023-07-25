@@ -1,0 +1,189 @@
+2023-07-18 20:43:14.591 [main] INFO  com.may23.BaseTest - chrome launched
+2023-07-18 20:43:23.382 [main] INFO  com.may23.BaseTest - Facebook - log in or sign up
+2023-07-18 20:43:24.713 [main] INFO  com.may23.BaseTest - user enters email
+2023-07-18 20:43:26.478 [main] INFO  com.may23.BaseTest - user enters password
+2023-07-18 20:43:26.542 [main] INFO  com.may23.BaseTest -  Soft assertion is complete
+2023-07-18 20:45:08.757 [main] INFO  com.may23.BaseTest - chrome launched
+2023-07-18 20:45:16.178 [main] INFO  com.may23.BaseTest - Facebook - log in or sign up
+2023-07-18 20:45:17.269 [main] INFO  com.may23.BaseTest - user enters email
+2023-07-18 20:45:17.809 [main] INFO  com.may23.BaseTest - user enters password
+2023-07-18 20:45:17.846 [main] INFO  com.may23.BaseTest -  Soft assertion is complete
+2023-07-18 20:51:57.285 [main] INFO  util.Log - chrome launched
+2023-07-18 20:52:04.553 [main] INFO  util.Log - Facebook - log in or sign up
+2023-07-18 20:52:05.574 [main] INFO  util.Log - user enters email
+2023-07-18 20:52:06.072 [main] INFO  util.Log - user enters password
+2023-07-18 20:52:06.205 [main] WARN  util.Log -  Soft assertion is complete
+2023-07-19 00:00:59.292 [main] INFO  util.Log - chrome launched
+2023-07-19 00:01:07.346 [main] INFO  util.Log - Facebook - log in or sign up
+2023-07-19 00:01:09.089 [main] INFO  util.Log - user enters email
+2023-07-19 00:01:10.098 [main] INFO  util.Log - user enters password
+2023-07-19 00:01:10.158 [main] WARN  util.Log -  Soft assertion is complete
+2023-07-19 00:03:11.190 [main] INFO  util.Log - chrome launched
+2023-07-19 00:03:17.127 [main] INFO  util.Log - Facebook - log in or sign up
+2023-07-19 00:03:19.437 [main] INFO  util.Log - user enters email
+2023-07-19 00:03:19.792 [main] INFO  util.Log - user enters password
+2023-07-19 00:03:19.862 [main] WARN  util.Log -  Soft assertion is complete
+2023-07-19 00:04:47.154 [main] INFO  java.lang.Class - chrome launched
+2023-07-19 00:04:54.084 [main] INFO  java.lang.Class - Facebook - log in or sign up
+2023-07-19 00:04:55.277 [main] INFO  java.lang.Class - user enters email
+2023-07-19 00:04:55.724 [main] INFO  java.lang.Class - user enters password
+2023-07-19 00:04:55.736 [main] WARN  java.lang.Class -  Soft assertion is complete
+2023-07-19 00:06:10.484 [main] INFO  java.lang.Class - chrome launched
+2023-07-19 00:06:18.216 [main] INFO  java.lang.Class - Facebook - log in or sign up
+2023-07-19 00:06:19.539 [main] INFO  java.lang.Class - user enters email
+2023-07-19 00:06:19.971 [main] INFO  java.lang.Class - user enters password
+2023-07-19 00:06:19.984 [main] WARN  java.lang.Class -  Soft assertion is complete
+2023-07-19 00:06:19.984 [main] INFO  java.lang.Class -  assertion is complete
+2023-07-19 00:06:20.114 [main] INFO  java.lang.Class - browser quits
+2023-07-19 00:06:50.384 [main] INFO  java.lang.Class - chrome launched
+2023-07-19 00:06:57.348 [main] INFO  java.lang.Class - Facebook - log in or sign up
+2023-07-19 00:06:58.823 [main] INFO  java.lang.Class - user enters email
+2023-07-19 00:06:59.281 [main] INFO  java.lang.Class - user enters password
+2023-07-19 00:06:59.295 [main] WARN  java.lang.Class -  Soft assertion is complete
+2023-07-19 00:06:59.295 [main] INFO  java.lang.Class -  assertion is complete
+2023-07-19 00:06:59.420 [main] INFO  java.lang.Class - browser quits
+2023-07-19 00:13:16.138 [main] INFO  util.Log - chrome launched
+2023-07-19 00:13:23.298 [main] INFO  util.Log - Facebook - log in or sign up
+2023-07-19 00:13:24.525 [main] INFO  util.Log - user enters email
+2023-07-19 00:13:24.947 [main] INFO  util.Log - user enters password
+2023-07-19 00:13:24.959 [main] WARN  util.Log -  Soft assertion is complete
+2023-07-19 00:13:24.959 [main] INFO  util.Log -  assertion is complete
+2023-07-19 00:13:25.082 [main] INFO  util.Log - browser quits
+2023-07-19 00:22:26.340 [main] INFO  org.apache.logging.log4j.core.Logger - chrome launched
+2023-07-19 00:22:32.742 [main] INFO  org.apache.logging.log4j.core.Logger - Facebook - log in or sign up
+2023-07-19 00:22:35.327 [main] INFO  org.apache.logging.log4j.core.Logger - user enters email
+2023-07-19 00:22:35.818 [main] INFO  org.apache.logging.log4j.core.Logger - user enters password
+2023-07-19 00:22:35.839 [main] WARN  org.apache.logging.log4j.core.Logger -  Soft assertion is complete
+2023-07-19 00:22:35.839 [main] INFO  org.apache.logging.log4j.core.Logger -  assertion is complete
+2023-07-19 00:22:35.970 [main] INFO  org.apache.logging.log4j.core.Logger - browser quits
+2023-07-19 00:23:08.081 [main] INFO  org.apache.logging.log4j.LogManager - chrome launched
+2023-07-19 00:26:20.361 [main] INFO  util.Log - chrome launched
+2023-07-19 00:26:27.319 [main] INFO  util.Log - Facebook - log in or sign up
+2023-07-19 00:26:28.646 [main] INFO  util.Log - user enters email
+2023-07-19 00:26:29.013 [main] INFO  util.Log - user enters password
+2023-07-19 00:26:29.027 [main] WARN  util.Log -  Soft assertion is complete
+2023-07-19 00:26:29.027 [main] INFO  util.Log -  assertion is complete
+2023-07-19 00:26:29.154 [main] INFO  util.Log - browser quits
+2023-07-24 18:40:03.986 [main] INFO  util.Log - chrome launched
+2023-07-24 18:40:11.454 [main] INFO  util.Log - Facebook - log in or sign up
+2023-07-24 18:40:11.511 [main] INFO  util.Log - abc@yahoo.com pqr!234
+2023-07-24 18:40:11.514 [main] INFO  util.Log - xyz@gmail.com kjh5k454
+2023-07-24 18:40:11.515 [main] INFO  util.Log - wxy@hotmail.com ghkhgf!
+2023-07-24 18:40:11.653 [main] INFO  util.Log - browser quits
+2023-07-24 18:43:10.519 [main] INFO  util.Log - chrome launched
+2023-07-24 18:43:17.629 [main] INFO  util.Log - Facebook - log in or sign up
+2023-07-24 18:43:18.629 [main] INFO  util.Log - user enters email
+2023-07-24 18:43:19.093 [main] INFO  util.Log - user enters password
+2023-07-24 18:43:19.137 [main] WARN  util.Log -  Soft assertion is complete
+2023-07-24 18:43:19.138 [main] INFO  util.Log -  assertion is complete
+2023-07-24 18:43:19.139 [main] INFO  util.Log - abc@yahoo.com pqr!234
+2023-07-24 18:43:19.939 [main] INFO  util.Log - user enters email
+2023-07-24 18:43:20.759 [main] INFO  util.Log - user enters password
+2023-07-24 18:43:20.769 [main] WARN  util.Log -  Soft assertion is complete
+2023-07-24 18:43:20.769 [main] INFO  util.Log -  assertion is complete
+2023-07-24 18:43:20.769 [main] INFO  util.Log - xyz@gmail.com kjh5k454
+2023-07-24 18:43:20.905 [main] INFO  util.Log - user enters email
+2023-07-24 18:43:21.007 [main] INFO  util.Log - user enters password
+2023-07-24 18:43:21.012 [main] WARN  util.Log -  Soft assertion is complete
+2023-07-24 18:43:21.012 [main] INFO  util.Log -  assertion is complete
+2023-07-24 18:43:21.012 [main] INFO  util.Log - wxy@hotmail.com ghkhgf!
+2023-07-24 18:43:21.136 [main] INFO  util.Log - browser quits
+2023-07-24 18:47:37.483 [main] INFO  util.Log - chrome launched
+2023-07-24 18:47:44.519 [main] INFO  util.Log - Facebook - log in or sign up
+2023-07-24 18:47:45.436 [main] INFO  util.Log - user enters emailabc@yahoo.com
+2023-07-24 18:47:45.859 [main] INFO  util.Log - user enters passwordpqr!234
+2023-07-24 18:47:51.182 [main] WARN  util.Log -  Soft assertion is complete
+2023-07-24 18:47:51.183 [main] INFO  util.Log -  assertion is complete
+2023-07-24 18:47:52.106 [main] INFO  util.Log - user enters emailxyz@gmail.com
+2023-07-24 18:47:52.464 [main] INFO  util.Log - user enters passwordkjh5k454
+2023-07-24 18:47:57.574 [main] WARN  util.Log -  Soft assertion is complete
+2023-07-24 18:47:57.575 [main] INFO  util.Log -  assertion is complete
+2023-07-24 18:47:58.090 [main] INFO  util.Log - user enters emailwxy@hotmail.com
+2023-07-24 18:47:58.354 [main] INFO  util.Log - user enters passwordghkhgf!
+2023-07-24 18:48:03.408 [main] WARN  util.Log -  Soft assertion is complete
+2023-07-24 18:48:03.410 [main] INFO  util.Log -  assertion is complete
+2023-07-24 18:48:03.546 [main] INFO  util.Log - browser quits
+2023-07-24 19:45:24.715 [main] INFO  util.Log - chrome launched
+2023-07-24 19:45:33.253 [main] INFO  util.Log - Facebook - log in or sign up
+2023-07-24 19:45:34.643 [main] INFO  util.Log - browser quits
+2023-07-24 19:54:06.275 [main] INFO  util.Log - chrome launched
+2023-07-24 19:54:13.700 [main] INFO  util.Log - Facebook - log in or sign up
+2023-07-24 19:54:14.905 [main] INFO  util.Log - browser quits
+2023-07-24 20:13:02.099 [main] INFO  util.Log - chrome launched
+2023-07-24 20:13:10.647 [main] INFO  util.Log - Facebook - log in or sign up
+2023-07-24 20:13:12.193 [main] INFO  util.Log - browser quits
+2023-07-24 20:18:05.003 [main] INFO  util.Log - chrome launched
+2023-07-24 20:18:12.546 [main] INFO  util.Log - Facebook - log in or sign up
+2023-07-24 20:18:13.876 [main] INFO  util.Log - browser quits
+2023-07-24 20:20:09.232 [main] INFO  util.Log - chrome launched
+2023-07-24 20:20:17.938 [main] INFO  util.Log - Facebook - log in or sign up
+2023-07-24 20:20:19.213 [main] INFO  util.Log - browser quits
+2023-07-24 20:22:30.612 [main] INFO  util.Log - chrome launched
+2023-07-24 20:22:41.596 [main] INFO  util.Log - Facebook - log in or sign up
+2023-07-24 20:22:43.064 [main] INFO  util.Log - browser quits
+2023-07-24 20:26:10.849 [main] INFO  util.Log - chrome launched
+2023-07-24 20:26:17.794 [main] INFO  util.Log - Facebook - log in or sign up
+2023-07-24 20:26:19.029 [main] INFO  util.Log - browser quits
+2023-07-24 20:34:21.769 [main] INFO  util.Log - chrome launched
+2023-07-24 20:34:29.849 [main] INFO  util.Log - Facebook - log in or sign up
+2023-07-24 20:34:31.175 [main] INFO  util.Log - browser quits
+2023-07-24 21:04:07.660 [main] INFO  util.Log - chrome launched
+2023-07-24 21:04:16.245 [main] INFO  util.Log - Facebook - log in or sign up
+2023-07-24 21:04:17.550 [main] INFO  util.Log - browser quits
+2023-07-24 21:05:48.371 [main] INFO  util.Log - chrome launched
+2023-07-24 21:05:55.297 [main] INFO  util.Log - Facebook - log in or sign up
+2023-07-24 21:05:56.507 [main] INFO  util.Log - user enters email :abc@yahoo.com
+2023-07-24 21:05:56.929 [main] INFO  util.Log - user enters password :pqr!234
+2023-07-24 21:06:02.241 [main] WARN  util.Log -  Soft assertion is complete
+2023-07-24 21:06:02.241 [main] INFO  util.Log -  assertion is complete
+2023-07-24 21:06:03.184 [main] INFO  util.Log - user enters email :xyz@gmail.com
+2023-07-24 21:06:03.578 [main] INFO  util.Log - user enters password :kjh5k454
+2023-07-24 21:06:08.675 [main] WARN  util.Log -  Soft assertion is complete
+2023-07-24 21:06:08.676 [main] INFO  util.Log -  assertion is complete
+2023-07-24 21:06:09.274 [main] INFO  util.Log - user enters email :wxy@hotmail.com
+2023-07-24 21:06:09.412 [main] INFO  util.Log - user enters password :ghkhgf!
+2023-07-24 21:06:14.460 [main] WARN  util.Log -  Soft assertion is complete
+2023-07-24 21:06:14.461 [main] INFO  util.Log -  assertion is complete
+2023-07-24 21:06:14.656 [main] INFO  util.Log - browser quits
+2023-07-24 21:12:47.214 [main] INFO  util.Log - chrome launched
+2023-07-24 21:12:55.471 [main] INFO  util.Log - Facebook - log in or sign up
+2023-07-24 21:12:56.482 [main] INFO  util.Log - rhasan@gmail.com Abcsd!234
+2023-07-24 21:12:56.486 [main] INFO  util.Log - rihad123@yahoo.com jdsfhjsdf
+2023-07-24 21:12:56.487 [main] INFO  util.Log - expertauto@gmail.com kjhljhnlcd
+2023-07-24 21:12:56.631 [main] INFO  util.Log - browser quits
+2023-07-24 21:15:28.368 [main] INFO  util.Log - chrome launched
+2023-07-24 21:15:35.410 [main] INFO  util.Log - Facebook - log in or sign up
+2023-07-24 21:15:37.453 [main] INFO  util.Log - user enters email :rhasan@gmail.com
+2023-07-24 21:15:38.717 [main] INFO  util.Log - user enters password :Abcsd!234
+2023-07-24 21:15:44.108 [main] WARN  util.Log -  Soft assertion is complete
+2023-07-24 21:15:44.109 [main] INFO  util.Log -  assertion is complete
+2023-07-24 21:15:44.875 [main] INFO  util.Log - user enters email :rihad123@yahoo.com
+2023-07-24 21:15:45.266 [main] INFO  util.Log - user enters password :jdsfhjsdf
+2023-07-24 21:15:50.332 [main] WARN  util.Log -  Soft assertion is complete
+2023-07-24 21:15:50.342 [main] INFO  util.Log -  assertion is complete
+2023-07-24 21:15:51.143 [main] INFO  util.Log - user enters email :expertauto@gmail.com
+2023-07-24 21:15:51.283 [main] INFO  util.Log - user enters password :kjhljhnlcd
+2023-07-24 21:15:56.378 [main] WARN  util.Log -  Soft assertion is complete
+2023-07-24 21:15:56.379 [main] INFO  util.Log -  assertion is complete
+2023-07-24 21:15:56.627 [main] INFO  util.Log - browser quits
+2023-07-25 18:13:01.664 [main] INFO  util.Log - chrome launched
+2023-07-25 18:13:09.113 [main] INFO  util.Log - Facebook - log in or sign up
+2023-07-25 18:13:11.321 [main] INFO  util.Log - user enters email :rhasan@gmail.com
+2023-07-25 18:13:11.760 [main] INFO  util.Log - user enters password :Abcsd!234
+2023-07-25 18:13:17.501 [main] WARN  util.Log -  Soft assertion is complete
+2023-07-25 18:13:17.502 [main] INFO  util.Log -  assertion is complete
+2023-07-25 18:13:18.525 [main] INFO  util.Log - user enters email :rihad123@yahoo.com
+2023-07-25 18:13:19.063 [main] INFO  util.Log - user enters password :jdsfhjsdf
+2023-07-25 18:13:24.151 [main] WARN  util.Log -  Soft assertion is complete
+2023-07-25 18:13:24.151 [main] INFO  util.Log -  assertion is complete
+2023-07-25 18:13:24.757 [main] INFO  util.Log - user enters email :expertauto@gmail.com
+2023-07-25 18:13:25.052 [main] INFO  util.Log - user enters password :kjhljhnlcd
+2023-07-25 18:13:30.106 [main] WARN  util.Log -  Soft assertion is complete
+2023-07-25 18:13:30.109 [main] INFO  util.Log -  assertion is complete
+2023-07-25 18:13:30.238 [main] INFO  util.Log - browser quits
+2023-07-25 18:14:32.858 [main] INFO  util.Log - chrome launched
+2023-07-25 18:14:40.190 [main] INFO  util.Log - Facebook - log in or sign up
+2023-07-25 18:14:41.334 [main] INFO  util.Log - rhasan@gmail.com Abcsd!234
+2023-07-25 18:14:41.339 [main] INFO  util.Log - rihad123@yahoo.com jdsfhjsdf
+2023-07-25 18:14:41.352 [main] INFO  util.Log - expertauto@gmail.com kjhljhnlcd
+2023-07-25 18:14:41.466 [main] INFO  util.Log - browser quits
