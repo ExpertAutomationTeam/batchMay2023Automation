@@ -2,6 +2,10 @@
 
 <suite name="Suite" parallel="tests">
 
+    <listeners>
+        <listener class-name="util.Reporting"></listener>
+    </listeners>
+
     <test name="createAcc">
         <parameter name="browser" value="firefox"></parameter>
         <classes>

@@ -187,3 +187,44 @@
 2023-07-25 18:14:41.339 [main] INFO  util.Log - rihad123@yahoo.com jdsfhjsdf
 2023-07-25 18:14:41.352 [main] INFO  util.Log - expertauto@gmail.com kjhljhnlcd
 2023-07-25 18:14:41.466 [main] INFO  util.Log - browser quits
+2023-07-25 19:33:45.742 [TestNG-tests-1] INFO  util.Log - Facebook - log in or sign up
+2023-07-25 19:33:47.327 [TestNG-tests-1] INFO  util.Log - on Test success
+2023-07-25 19:33:48.945 [TestNG-tests-1] INFO  util.Log - browser quits
+2023-07-25 19:34:39.761 [TestNG-tests-2] INFO  util.Log - chrome launched
+2023-07-25 19:34:45.778 [TestNG-tests-2] INFO  util.Log - Facebook - log in or sign up
+2023-07-25 19:34:47.125 [TestNG-tests-2] INFO  util.Log - user enters email :abc@yahoo.com
+2023-07-25 19:34:47.523 [TestNG-tests-2] INFO  util.Log - user enters password :pqr!234
+2023-07-25 19:34:52.718 [TestNG-tests-2] WARN  util.Log -  Soft assertion is complete
+2023-07-25 19:34:52.718 [TestNG-tests-2] INFO  util.Log -  assertion is complete
+2023-07-25 19:34:52.721 [TestNG-tests-2] INFO  util.Log - on Test success
+2023-07-25 19:34:53.855 [TestNG-tests-2] INFO  util.Log - user enters email :xyz@gmail.com
+2023-07-25 19:34:54.088 [TestNG-tests-2] INFO  util.Log - user enters password :kjh5k454
+2023-07-25 19:34:59.183 [TestNG-tests-2] WARN  util.Log -  Soft assertion is complete
+2023-07-25 19:34:59.185 [TestNG-tests-2] INFO  util.Log -  assertion is complete
+2023-07-25 19:34:59.187 [TestNG-tests-2] INFO  util.Log - on Test success
+2023-07-25 19:34:59.877 [TestNG-tests-2] INFO  util.Log - user enters email :wxy@hotmail.com
+2023-07-25 19:35:00.069 [TestNG-tests-2] INFO  util.Log - user enters password :ghkhgf!
+2023-07-25 19:35:05.163 [TestNG-tests-2] WARN  util.Log -  Soft assertion is complete
+2023-07-25 19:35:05.164 [TestNG-tests-2] INFO  util.Log -  assertion is complete
+2023-07-25 19:35:05.165 [TestNG-tests-2] INFO  util.Log - on Test success
+2023-07-25 19:35:05.277 [TestNG-tests-2] INFO  util.Log - browser quits
+2023-07-25 19:44:57.612 [TestNG-tests-1] INFO  util.Log - Facebook - log in or sign up
+2023-07-25 19:45:01.863 [TestNG-tests-2] INFO  util.Log - chrome launched
+2023-07-25 19:45:02.205 [TestNG-tests-1] INFO  util.Log - browser quits
+2023-07-25 19:45:10.630 [TestNG-tests-2] INFO  util.Log - Facebook - log in or sign up
+2023-07-25 19:45:12.997 [TestNG-tests-2] INFO  util.Log - user enters email :abc@yahoo.com
+2023-07-25 19:45:13.622 [TestNG-tests-2] INFO  util.Log - user enters password :pqr!234
+2023-07-25 19:45:18.743 [TestNG-tests-2] WARN  util.Log -  Soft assertion is complete
+2023-07-25 19:45:18.743 [TestNG-tests-2] INFO  util.Log -  assertion is complete
+2023-07-25 19:45:18.756 [TestNG-tests-2] INFO  util.Log - on Test success
+2023-07-25 19:45:19.780 [TestNG-tests-2] INFO  util.Log - user enters email :xyz@gmail.com
+2023-07-25 19:45:19.973 [TestNG-tests-2] INFO  util.Log - user enters password :kjh5k454
+2023-07-25 19:45:25.055 [TestNG-tests-2] WARN  util.Log -  Soft assertion is complete
+2023-07-25 19:45:25.056 [TestNG-tests-2] INFO  util.Log -  assertion is complete
+2023-07-25 19:45:25.057 [TestNG-tests-2] INFO  util.Log - on Test success
+2023-07-25 19:45:25.379 [TestNG-tests-2] INFO  util.Log - user enters email :wxy@hotmail.com
+2023-07-25 19:45:25.516 [TestNG-tests-2] INFO  util.Log - user enters password :ghkhgf!
+2023-07-25 19:45:33.188 [TestNG-tests-2] WARN  util.Log -  Soft assertion is complete
+2023-07-25 19:45:33.189 [TestNG-tests-2] INFO  util.Log -  assertion is complete
+2023-07-25 19:45:33.194 [TestNG-tests-2] INFO  util.Log - on Test success
+2023-07-25 19:45:33.323 [TestNG-tests-2] INFO  util.Log - browser quits

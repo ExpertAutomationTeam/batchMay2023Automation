@@ -1,5 +1,6 @@
 package com.may23;
 
+import com.aventstack.extentreports.ExtentTest;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.WebDriver;
@@ -19,6 +20,7 @@ import java.time.Duration;
 public class BaseTest {
     public static WebDriver driver;
     public static ReadConfig readConfig = new ReadConfig();
+    public static ExtentTest test;
 
 
     @Parameters("browser")
@@ -27,6 +29,7 @@ public class BaseTest {
             if (browser.equalsIgnoreCase("chrome")){
                 driver = new ChromeDriver();
                 Log.info("chrome launched");
+
             } else if (browser.equalsIgnoreCase("firefox")){
                 driver = new FirefoxDriver();
                 System.out.println("firefox launched");
