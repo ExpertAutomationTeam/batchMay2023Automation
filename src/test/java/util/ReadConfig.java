@@ -59,5 +59,9 @@ public class ReadConfig extends BaseTest {
         return upass ;
     }
 
+    public String getdbURL(){
+        String dbURL=properties.getProperty("dbURL");
+        return dbURL ;
+    }
 
 }

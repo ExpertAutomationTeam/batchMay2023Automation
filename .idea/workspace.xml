@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="998b0396-05f5-4bd0-ae32-4ac7fd1f0516" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/util/Reporting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/application.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/application.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/may23/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/may23/BaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testcases/CreateAccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testcases/CreateAccountTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/util/DBConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/util/DBConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/util/ReadConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/util/ReadConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/properties/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/properties/config.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,16 +50,21 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="TestNG./Users/rihad/idea-project/batchMay2023Automation/testng.xml">
-    <configuration name="LoginTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testcases.LoginTest" />
+  <component name="RunManager" selected="TestNG.DBConnection.getConnection">
+    <configuration name="DBConnection.getConnection" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="batchMay2023Automation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testcases.*" />
+          <option name="PATTERN" value="util.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="util" />
+      <option name="MAIN_CLASS_NAME" value="util.DBConnection" />
+      <option name="METHOD_NAME" value="getConnection" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -130,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.DBConnection.getConnection" />
         <item itemvalue="TestNG./Users/rihad/idea-project/batchMay2023Automation/testng.xml" />
         <item itemvalue="TestNG.DataDrivenTest.ddt" />
         <item itemvalue="TestNG.LoginTest.loginTest" />
         <item itemvalue="TestNG.DataDrivenTest" />
-        <item itemvalue="Application.LoginTest" />
       </list>
     </recent_temporary>
   </component>

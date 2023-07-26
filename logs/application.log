@@ -228,3 +228,19 @@
 2023-07-25 19:45:33.189 [TestNG-tests-2] INFO  util.Log -  assertion is complete
 2023-07-25 19:45:33.194 [TestNG-tests-2] INFO  util.Log - on Test success
 2023-07-25 19:45:33.323 [TestNG-tests-2] INFO  util.Log - browser quits
+2023-07-25 20:31:41.127 [main] INFO  util.Log - chrome launched
+2023-07-25 20:31:46.592 [main] INFO  util.Log - Facebook - log in or sign up
+2023-07-25 20:31:47.637 [main] INFO  util.Log - browser quits
+2023-07-25 20:33:50.283 [main] INFO  util.Log - chrome launched
+2023-07-25 20:33:55.978 [main] INFO  util.Log - Facebook - log in or sign up
+2023-07-25 20:33:56.520 [main] INFO  util.Log - CustomerName :Hanari Carnes - ContactName :Mario Pontes
+2023-07-25 20:33:56.520 [main] INFO  util.Log - CustomerName :Syed Ali - ContactName :Mario Pontes
+2023-07-25 20:33:56.520 [main] INFO  util.Log - CustomerName :Sumit - ContactName :Mario Pontes
+2023-07-25 20:33:56.520 [main] INFO  util.Log - CustomerName :Yusuf - ContactName :Mario Pontes
+2023-07-25 20:33:56.520 [main] INFO  util.Log - CustomerName :rhasan - ContactName :Mario Pontes
+2023-07-25 20:33:56.521 [main] INFO  util.Log - CustomerName :Amer itani - ContactName :Rakibul Hasan
+2023-07-25 20:33:56.521 [main] INFO  util.Log - CustomerName :Cardinal - ContactName :Tom B. Erichsen
+2023-07-25 20:33:56.521 [main] INFO  util.Log - CustomerName :Shakil - ContactName :Tom B. Erichsen
+2023-07-25 20:33:56.521 [main] INFO  util.Log - CustomerName :Shakil - ContactName :Tom B. Erichsen
+2023-07-25 20:33:56.521 [main] INFO  util.Log - CustomerName :Shakil - ContactName :BOB B. Erichsen
+2023-07-25 20:33:56.650 [main] INFO  util.Log - browser quits
