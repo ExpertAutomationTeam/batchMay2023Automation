@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="998b0396-05f5-4bd0-ae32-4ac7fd1f0516" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/testcases/GetRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testcases/PostCall.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/application.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/application.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/util/DBConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/util/DBConnection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/util/ReadConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/util/ReadConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/properties/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/properties/config.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,14 +41,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/Users/rihad/idea-project/batchMay2023Automation"
   }
-}</component>
-  <component name="RunManager" selected="TestNG.DBConnection.getConnection">
+}]]></component>
+  <component name="RunManager" selected="TestNG.PostCall.postUsers">
     <configuration name="DBConnection.getConnection" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="batchMay2023Automation" />
       <extension name="coverage">
@@ -63,23 +62,6 @@
       <option name="MAIN_CLASS_NAME" value="util.DBConnection" />
       <option name="METHOD_NAME" value="getConnection" />
       <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DataDrivenTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="batchMay2023Automation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testcases.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="testcases" />
-      <option name="MAIN_CLASS_NAME" value="testcases.DataDrivenTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -104,7 +86,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoginTest.loginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="GetRequest.getUsers" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="batchMay2023Automation" />
       <extension name="coverage">
         <pattern>
@@ -113,8 +95,26 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="testcases" />
-      <option name="MAIN_CLASS_NAME" value="testcases.LoginTest" />
-      <option name="METHOD_NAME" value="loginTest" />
+      <option name="MAIN_CLASS_NAME" value="testcases.GetRequest" />
+      <option name="METHOD_NAME" value="getUsers" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostCall.postUsers" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="batchMay2023Automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testcases" />
+      <option name="MAIN_CLASS_NAME" value="testcases.PostCall" />
+      <option name="METHOD_NAME" value="postUsers" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -134,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.PostCall.postUsers" />
+        <item itemvalue="TestNG.GetRequest.getUsers" />
         <item itemvalue="TestNG.DBConnection.getConnection" />
         <item itemvalue="TestNG./Users/rihad/idea-project/batchMay2023Automation/testng.xml" />
         <item itemvalue="TestNG.DataDrivenTest.ddt" />
-        <item itemvalue="TestNG.LoginTest.loginTest" />
-        <item itemvalue="TestNG.DataDrivenTest" />
       </list>
     </recent_temporary>
   </component>
